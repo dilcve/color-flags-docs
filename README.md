@@ -6,7 +6,7 @@ Legal documents for the **Color Flags** mobile game, hosted via GitHub Pages.
 - Terms of Use: https://dilcve.github.io/color-flags-docs/terms.html
 
 Each page has Portuguese / English / Spanish sections (via `#pt` / `#en` / `#es`
-anchors). Contact: rodrigoferreiraapps@gmail.com
+anchors). Contact: colorflagsapp@gmail.com
 
 ## Enable hosting
 
