@@ -7,7 +7,3 @@ Legal documents for the **Color Flags** mobile game, hosted via GitHub Pages.
 
 Each page has Portuguese / English / Spanish sections (via `#pt` / `#en` / `#es`
 anchors). Contact: colorflagsapp@gmail.com
-
-## Enable hosting
-
-Repo → Settings → Pages → Source: **Deploy from a branch** → Branch: `main` / `/ (root)`.
